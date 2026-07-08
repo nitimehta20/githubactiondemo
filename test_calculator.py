@@ -6,3 +6,4 @@ def test_add():
 
 def test_sub():
 	assert substraction(10,5) == 5
+
